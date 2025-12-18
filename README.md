@@ -27,7 +27,8 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
   ## 🌱 Portfolio & Learning
 </h3>
 
-- 🔭 Python Libraries I ❤️: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `cufflinks`, `BeautifulSoup`  
+- 🔭 Python Libraries I ❤️: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `cufflinks`, `BeautifulSoup`
+- 📝 [Project Management Portfolio](www.nidhipriyasingh.com)
 - 📝 [Portfolio Website](www.nidhipriyasingh.com)  
 - 📊 [Power BI Projects](https://github.com/Nidhi-Priya-Singh/POWER-BI-Project/blob/main/README.md)
 - 📈 [Tableau Projects](tableau.com)  
