@@ -14,7 +14,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-**`Project Manager and Analyst (Analyst/Developer/Creator)`**
+**`PM and Analyst (Analyst/Developer/Creator)`**
 
 As a Data enthusiast, I am passionate about exploring data and uncovering valuable insights that drive business decisions. Innovya has provided me with the necessary skills and knowledge to handle large, complex raw data sets to develop data-driven, actionable insights to impact business decisions. I have gained practical experience in manipulating and analyzing data using Python and PostgreSQL, including data cleaning, transformation, analysis, and visualization tasks. 
 
