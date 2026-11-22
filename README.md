@@ -77,7 +77,7 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 - **🌵 Obsessed with cactus (If cactus had a fan club, I’d be president)**
 - **🛼 I roll through life on skates (but swimming? I tried once… sank like a rock 😂 😅)**
 - **🌙 Obsessed with the moon, moonlight & Starry Nights (Van Gogh = ❤️)**
-- **🤖 AI isn’t just tech, it’s my art form 🚀**
+
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
